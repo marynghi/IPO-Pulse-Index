@@ -1,4 +1,3 @@
-# IPO-Pulse-Index
 # Swedish IPO Pulse Index
 
 ## Overview
