@@ -2,6 +2,7 @@
 
 ## Overview
 This notebook develops a 'Swedish IPO Pulse Index' designed to forecast IPO activity in Sweden. The index integrates various economic, market, confidence, and capital-related indicators, processing them through normalization, aggregation, and regression analysis. The goal is to provide a predictive tool for the IPO market, with a particular focus on the period from 2015 onwards.
+*Disclaimer: all data used are publicly available data, no proprietary data was used here*
 
 ## Data Sources
 The analysis utilizes several datasets:
